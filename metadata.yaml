@@ -1,4 +1,8 @@
 _repo: The-Coming-of-the-Fairies_47506
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47506-h/images/i-cover.jpg
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -15,6 +19,8 @@ description: This recounts the story of two young girls from Cottingley in Yorks
   who were photographed supposedly playing with a group of tiny fairies - This story
   has recently been exposed as a hoax, however at the time that he wrote the book,
   Doyle was entirely convinced that the story and photographs were authentic_______________
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47506#The-Coming-of-the-Fairies
 gutenberg_issued: '2014-12-01'
 gutenberg_type: Text
 identifiers:
